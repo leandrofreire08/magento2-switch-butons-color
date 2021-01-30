@@ -1,0 +1,8 @@
+:root {
+    --default: #f3f3f3
+}
+
+button.primary {
+    background-color: var(--default)!important;
+    border: 1px solid var(--default)!important;
+}
